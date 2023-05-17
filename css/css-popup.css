@@ -17,6 +17,11 @@ body {
 h1 {
   font-size: 15px;
 }
+h2 {
+  font-size: 15px;
+  padding-left: 7px;
+}
+
 #container {
   align-items: center;
   display: flex;

@@ -59,8 +59,6 @@
                     </label>
                 </div>
             </fieldset>
-			<h2>Top 10 Most Visited Sites:</h2>
-			<div id='mostVisited_div'></div>
             <div class="dma-suggestion">
                 <p class="dma-suggestion-text">
                     <span class="dma-suggestion-head">Suggestion :</span>
@@ -75,7 +73,8 @@
                   <span class="dma-foot-text">Donate</span>
                 </a>
             </div>
-
+			<h2>Top 10 Most Visited Sites:</h2>
+			<div id='mostVisited_div'></div>
         </form>
     </div>
   </body>

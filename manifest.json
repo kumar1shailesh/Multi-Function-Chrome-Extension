@@ -6,7 +6,7 @@
   "manifest_version": 2,
   "short_name": "MultiFunctionChromeExtension",
   "description": "Multi Function Chrome Extension night mode, clear cookies etc",
-  "permissions": ["tabs","storage", "<all_urls>", "contextMenus"],
+  "permissions": ["tabs","storage", "<all_urls>", "contextMenus","topSites"],
   "web_accessible_resources": ["css/*.css"],
   "homepage_url": "https://www.1dollarcart.com/",
   "options_page": "templates/options.html",
